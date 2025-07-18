@@ -14,7 +14,7 @@ STRING_SESSION = getenv("STRING_SESSION", "")
 TEST_ID = int("-1002447776304")
 
 assistants = []
-assistantids = []
+assistantids = [] 
 
 
 class Userbot(Client):
