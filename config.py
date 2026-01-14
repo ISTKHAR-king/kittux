@@ -15,7 +15,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","ll_THUNDER_lll")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","PoisonMusicRobot")
+BOT_USERNAME = getenv("BOT_USERNAME","Sukku_Music_Bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -44,7 +44,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ISTKHAR-king/BABY-MUSIC",        
+    "https://github.com/ISTKHAR-king/kittux",        
 
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
