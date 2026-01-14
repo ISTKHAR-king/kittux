@@ -31,6 +31,7 @@ googlesearch-python
 youtube-search-python
 spotipy
 telegraph
+py-yt-search
 speedtest-cli
 unidecode
 urllib3
